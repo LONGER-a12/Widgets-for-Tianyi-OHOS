@@ -1,0 +1,9 @@
+{
+  // 与 Command Line Tools 26.0.1（HarmonyOS 26.0.1 Beta1 / API 26）匹配的构建模型版本
+  "modelVersion": "26.0.0",
+  "dependencies": {},
+  "execution": {},
+  "logging": {},
+  "debugging": {},
+  "nodeOptions": {}
+}

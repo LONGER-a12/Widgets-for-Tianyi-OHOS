@@ -1,0 +1,11 @@
+{
+  "modelVersion": "26.0.0",
+  "name": "yijian",
+  "version": "1.0.0",
+  "description": "依见 - 开源的 HarmonyOS 服务卡片（小组件）应用",
+  "main": "",
+  "author": "m1ku_a12",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}

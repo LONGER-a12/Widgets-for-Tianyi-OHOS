@@ -1,0 +1,15 @@
+{
+  "app": {
+    // 应用包名（用户指定，不可更改）
+    "bundleName": "com.m1ku.a12.wft",
+    // 开发者/厂商标识
+    "vendor": "m1ku_a12",
+    // 版本号与版本名
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    // 应用图标（拷贝自 logo.png）
+    "icon": "$media:app_icon",
+    // 应用名称
+    "label": "$string:app_name"
+  }
+}

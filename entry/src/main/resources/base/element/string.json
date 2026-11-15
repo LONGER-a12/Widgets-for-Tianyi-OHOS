@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "依见 入口模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "依见 主页面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "依见"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "依见 服务卡片（小组件）"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "依见"
+    },
+    {
+      "name": "form_display_name",
+      "value": "依见"
+    },
+    {
+      "name": "form_description",
+      "value": "依见 - 图片文字小组件"
+    }
+  ]
+}

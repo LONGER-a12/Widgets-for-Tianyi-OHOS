@@ -1,0 +1,8 @@
+# 构建产物与缓存
+.hvigor/
+build/
+oh_modules/
+*.hap
+*.app
+local.properties
+.DS_Store
